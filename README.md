@@ -18,4 +18,4 @@ row 7
 
 row 8
 
-안녕하세요~
+Jeongki-Son
