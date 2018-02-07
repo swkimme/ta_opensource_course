@@ -2,9 +2,10 @@
 
 수강생 아이디 목록
 
+
 row 1
 pushgerm
-
+choco912
 
 mshadows
 
