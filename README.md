@@ -15,6 +15,7 @@ row 5
 row 6
 
 row 7
+MinGOOD
 
 row 8
 
