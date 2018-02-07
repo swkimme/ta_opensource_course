@@ -3,7 +3,7 @@
 수강생 아이디 목록
 
 row 1
-hazelnut
+
 
 row 2
 
@@ -18,5 +18,6 @@ row 6
 row 7
 
 row 8
+hazelnut
 
 row 9
