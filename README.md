@@ -3,6 +3,7 @@
 수강생 아이디 목록
 
 row 1
+pushgerm
 
 
 row 2
