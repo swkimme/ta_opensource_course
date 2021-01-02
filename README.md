@@ -1,4 +1,4 @@
-# ta_opensource_course
+#ta_opensource_course
 
 수강생 아이디 목록
 
@@ -38,3 +38,11 @@ hazelnut
 row 9
 
 2dubbing
+
+row 10
+
+Youn-sik
+
+row 11
+
+practice
